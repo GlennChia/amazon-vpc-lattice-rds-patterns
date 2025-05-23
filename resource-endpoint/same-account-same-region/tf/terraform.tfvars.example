@@ -1,0 +1,7 @@
+region              = "us-east-1"
+interface_endpoints = ["ssm", "ec2messages", "ssmmessages"]
+db_name             = "demo"
+db_username         = "demoadmin"
+db_instance_class   = "db.t3.medium"
+db_port             = 5432
+instance_type       = "t2.micro"
