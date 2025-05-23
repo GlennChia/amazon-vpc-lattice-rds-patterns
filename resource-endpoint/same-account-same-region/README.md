@@ -1,8 +1,14 @@
 # Amazon VPC Lattice Resource Endpoint RDS pattern
 
-These deployments steps are related to the blog: <Replace link when published>
+These deployments steps are related to the blog: [Secure Cross-VPC Connections Part 1: Using VPC Lattice Resource Endpoints to connect EC2 with RDS](https://community.aws/content/2tZ6otUL4R75zVO8jGat3cLkBD3/secure-cross-vpc-connections-part-1-using-vpc-lattice-resource-endpoints-to-connect-ec2-with-rds)
 
-# 1. Deployment steps
+# 1. Prerequisites
+
+- An AWS account with an IAM user with the appropriate permissions
+- Terraform installed
+- Refer to the [Terraform AWS Provider Documentation](https://registry.terraform.io/providers/hashicorp/aws/latest/docs#environment-variables) on instructions on how you can configure your AWS credentials for use with Terraform
+
+# 2. Deployment steps
 
 Step 1: Copy [./tf/terraform.tfvars.example](./tf/terraform.tfvars.example) to `./tf/terraform.tfvars` and replace the values accordingly. For example if want to deploy resources into `ap-southeast-1`, change the `region` value from `us-east-1` to `ap-southeast-1`
 
