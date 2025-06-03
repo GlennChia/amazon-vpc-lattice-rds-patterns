@@ -1,6 +1,6 @@
 # Amazon VPC Lattice Service Network Endpoint RDS pattern
 
-These deployments steps are related to the blog: [Secure Cross-VPC Connections Part 2: Using VPC Lattice Service Network Endpoints to connect EC2 with RDS]()
+These deployments steps are related to the blog: [Secure Cross-VPC Connections Part 2: Using VPC Lattice Service Network Endpoints to connect EC2 with RDS](https://community.aws/content/2y05A6L8LSxEmZXnPeT4XndgExA/secure-cross-vpc-connections-part-2-using-vpc-lattice-service-network-endpoints-to-connect-ec2-with-rds)
 
 # 1. Prerequisites
 
