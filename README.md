@@ -4,8 +4,8 @@ This repository contains sample code to demonstrate Amazon VPC Lattice patterns 
 
 This repository contains patterns for
 
-- Lattice Service Network VPC Endpoints (WIP)
-- Lattice Service Network VPC Associations (WIP)
+- [Lattice Service Network VPC Endpoints](./lattice-service-network-endpoint/)
+- [Lattice Service Network VPC Associations](./lattice-service-network-vpc-assoc/)
 - [Resource Endpoints](./resource-endpoint/)
 
 # Appendix
