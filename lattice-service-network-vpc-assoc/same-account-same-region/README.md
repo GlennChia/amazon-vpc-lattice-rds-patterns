@@ -1,6 +1,6 @@
 # Amazon VPC Lattice Service Network VPC Association RDS pattern
 
-These deployments steps are related to the blog: [Secure Cross-VPC Connections Part 3: EC2 to RDS with Lattice Service Network VPC Association]()
+These deployments steps are related to the blog: [Secure Cross-VPC Connections Part 3: EC2 to RDS with Lattice Service Network VPC Associations](https://community.aws/content/2y2sBjjczr6tvRTHDgf1c0P1pb8/secure-cross-vpc-connections-part-3-ec2-to-rds-with-lattice-service-network-vpc-associations)
 
 # 1. Prerequisites
 
